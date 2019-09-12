@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public class c2p1 {
+
+public class c2l1p1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Scanner scanner2 = new Scanner(System.in);
