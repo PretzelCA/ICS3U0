@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3b058f0-5724-4e0d-96f2-df3eebf04440" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Chapter 2/c2l3p2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l1p1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/c2l1p1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l1p2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/c2l1p2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l1p3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/c2l1p3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l1p4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/c2l1p4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l1p5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/c2l1p5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l2p1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/c2l2p1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +69,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.c2p3">
+  <component name="RunManager" selected="Application.c2l3p2">
+    <configuration name="c2l3p2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c2l3p2" />
+      <module name="kj" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="c2p2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="c2p2" />
       <module name="kj" />
@@ -89,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.c2l3p2" />
         <item itemvalue="Application.c2p3" />
         <item itemvalue="Application.c2p2" />
       </list>
@@ -107,6 +112,8 @@
       <workItem from="1568225377315" duration="3066000" />
       <workItem from="1568238829066" duration="5420000" />
       <workItem from="1568318244015" duration="642000" />
+      <workItem from="1568319787533" duration="663000" />
+      <workItem from="1568397113857" duration="3189000" />
     </task>
     <servers />
   </component>
