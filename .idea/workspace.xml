@@ -2,40 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3b058f0-5724-4e0d-96f2-df3eebf04440" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/c1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l1p1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l1p2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l1p3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l1p4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l1p5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l2p1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l2p2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l2p3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l2p4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codehsisdumb/factorial2911.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codehsisdumb/minimum2115.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/c2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l1p1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l1p2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l1p3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l1p4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l1p5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l2p1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l3p2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kj.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/c1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/c1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +83,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.l3p12">
+  <component name="RunManager" selected="Application.c1">
+    <configuration name="c1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c1" />
+      <module name="kj" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="l3p10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="l3p10" />
       <module name="kj" />
@@ -136,13 +112,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="l3p8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="l3p8" />
-      <module name="kj" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="l3p9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="l3p9" />
       <module name="kj" />
@@ -152,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.c1" />
         <item itemvalue="Application.l3p12" />
         <item itemvalue="Application.l3p11" />
         <item itemvalue="Application.l3p10" />
         <item itemvalue="Application.l3p9" />
-        <item itemvalue="Application.l3p8" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +153,7 @@
       <workItem from="1569120171170" duration="3566000" />
       <workItem from="1569548075163" duration="3701000" />
       <workItem from="1569699998654" duration="5884000" />
-      <workItem from="1569716466237" duration="11515000" />
+      <workItem from="1569716466237" duration="12194000" />
     </task>
     <servers />
   </component>
