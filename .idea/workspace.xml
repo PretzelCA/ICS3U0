@@ -2,9 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3b058f0-5724-4e0d-96f2-df3eebf04440" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 2/c2l3p2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/c1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l1p1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l1p2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l1p3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l1p4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l1p5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l2p1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l2p2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l2p3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l2p4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter 2/l3p9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codehsisdumb/factorial2911.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codehsisdumb/minimum2115.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l2p1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/c2l2p1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l1p1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l1p2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l1p3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l1p4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l1p5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l2p1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/c2l3p2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kj.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +45,20 @@
   </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,10 +84,10 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -69,23 +114,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.c2l3p2">
-    <configuration name="c2l3p2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c2l3p2" />
+  <component name="RunManager" selected="Application.l3p12">
+    <configuration name="l3p10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l3p10" />
       <module name="kj" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="c2p2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c2p2" />
+    <configuration name="l3p11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l3p11" />
       <module name="kj" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="c2p3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="c2p3" />
+    <configuration name="l3p12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l3p12" />
+      <module name="kj" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="l3p8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l3p8" />
+      <module name="kj" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="l3p9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l3p9" />
       <module name="kj" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,9 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.c2l3p2" />
-        <item itemvalue="Application.c2p3" />
-        <item itemvalue="Application.c2p2" />
+        <item itemvalue="Application.l3p12" />
+        <item itemvalue="Application.l3p11" />
+        <item itemvalue="Application.l3p10" />
+        <item itemvalue="Application.l3p9" />
+        <item itemvalue="Application.l3p8" />
       </list>
     </recent_temporary>
   </component>
@@ -114,6 +175,16 @@
       <workItem from="1568318244015" duration="642000" />
       <workItem from="1568319787533" duration="663000" />
       <workItem from="1568397113857" duration="3189000" />
+      <workItem from="1568425110184" duration="52000" />
+      <workItem from="1568425185840" duration="59000" />
+      <workItem from="1568425273530" duration="44000" />
+      <workItem from="1568425465327" duration="35000" />
+      <workItem from="1568425517606" duration="1587000" />
+      <workItem from="1568594303680" duration="5234000" />
+      <workItem from="1569120171170" duration="3566000" />
+      <workItem from="1569548075163" duration="3701000" />
+      <workItem from="1569699998654" duration="5884000" />
+      <workItem from="1569716466237" duration="11515000" />
     </task>
     <servers />
   </component>

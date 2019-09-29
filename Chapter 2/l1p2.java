@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class c2l1p2 {
+public class l1p2 {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
 
