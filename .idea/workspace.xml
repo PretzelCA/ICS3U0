@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3b058f0-5724-4e0d-96f2-df3eebf04440" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter 2/c4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/c4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/c5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/c3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/c3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/c4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter 2/l3p9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter 2/l3p9.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.c3">
+  <component name="RunManager" selected="Application.c4">
     <configuration name="c1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="c1" />
       <module name="kj" />
@@ -105,15 +108,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="l3p11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="l3p11" />
+    <configuration name="c4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c4" />
       <module name="kj" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="l3p12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="l3p12" />
+    <configuration name="l3p9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="l3p9" />
       <module name="kj" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -121,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.c4" />
+        <item itemvalue="Application.l3p9" />
         <item itemvalue="Application.c3" />
         <item itemvalue="Application.c2" />
         <item itemvalue="Application.c1" />
-        <item itemvalue="Application.l3p12" />
-        <item itemvalue="Application.l3p11" />
       </list>
     </recent_temporary>
   </component>
@@ -154,6 +157,11 @@
       <workItem from="1569548075163" duration="3701000" />
       <workItem from="1569699998654" duration="5884000" />
       <workItem from="1569716466237" duration="18171000" />
+      <workItem from="1569851146134" duration="161000" />
+      <workItem from="1569857661913" duration="338000" />
+      <workItem from="1569861874140" duration="2155000" />
+      <workItem from="1569943536284" duration="50000" />
+      <workItem from="1569943612444" duration="3787000" />
     </task>
     <servers />
   </component>

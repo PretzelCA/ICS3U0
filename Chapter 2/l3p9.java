@@ -3,13 +3,10 @@ public class l3p9 {
         int cashMoney = 1;
         int days = 0;
 
-        for (;;) {
+        do {
             days++;
             cashMoney = cashMoney * 2;
-            if (cashMoney >= 100000000) {
-                break;
-            }
-        }
+        } while (cashMoney < 100000000);
 
         System.out.println("It took " + days + " days to get to $1 Million from a single penny");
     }
