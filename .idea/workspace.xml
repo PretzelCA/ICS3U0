@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3b058f0-5724-4e0d-96f2-df3eebf04440" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Files/q2c1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kj.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,10 +53,10 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="sshConsole" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -85,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test1">
+  <component name="RunManager" selected="Application.c4">
     <configuration name="c2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="c2" />
       <module name="kj" />
@@ -123,8 +121,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test1" />
         <item itemvalue="Application.c4" />
+        <item itemvalue="Application.test1" />
         <item itemvalue="Application.l3p9" />
         <item itemvalue="Application.c3" />
         <item itemvalue="Application.c2" />
@@ -164,6 +162,7 @@
       <workItem from="1570125288886" duration="895000" />
       <workItem from="1574098998374" duration="96000" />
       <workItem from="1574099159828" duration="962000" />
+      <workItem from="1574597570578" duration="461000" />
     </task>
     <servers />
   </component>
