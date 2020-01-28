@@ -9,7 +9,7 @@ public class c5 {
         int totalOdds = 0;
 
         do {
-            rnums.add((int)(Math.random()*10+1));
+            rnums.add((int)(Math.random()*9+1));
             numsTotal+=rnums.get(i);
             System.out.println(rnums.get(i));
             i++;
