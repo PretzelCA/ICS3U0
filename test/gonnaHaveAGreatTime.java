@@ -6,10 +6,10 @@ public class gonnaHaveAGreatTime {
         int studentPhone [] = new int[69];
         ArrayList<Integer> specialNumbers = new ArrayList<Integer>();
 
-        specialNumbers.add((int) (Math.random() * (420 - 69) + 1) - 69);
-        specialNumbers.add((int) (Math.random() * (420 - 69) + 1) - 69);
-        specialNumbers.add((int) (Math.random() * (420 - 69) + 1) - 69);
-        specialNumbers.add((int) (Math.random() * (420 - 69) + 1) - 69);
+        specialNumbers.add((int) (Math.random() * (420 - 69) + 1) + 69);
+        specialNumbers.add((int) (Math.random() * (420 - 69) + 1) + 69);
+        specialNumbers.add((int) (Math.random() * (420 - 69) + 1) + 69);
+        specialNumbers.add((int) (Math.random() * (420 - 69) + 1) + 69);
 
         System.out.println(specialNumbers.get(2));
         System.out.println(specialNumbers.size());
